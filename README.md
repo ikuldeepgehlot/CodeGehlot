@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kuldeep
-- 👀 I’m interested in Python, Web Development, Linux, E-Commerce, Movies etc
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Developer, Build full E-commerce website
+- 👀 I’m interested in Web Development, E-Commerce, Movies & Motorcycle Riding etc
+- 🌱 I’m currently learning Front-end Development
+- 💞️ I’m looking to collaborate on Front-end Developer, Build full E-commerce website.
 - 📫 How to reach me [Twitter](https://twitter.com/CodeGehlot)
 
 <!---
